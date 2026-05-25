@@ -33,7 +33,7 @@ javatest.sql
 
 ### 1. Clone the Repository
 
-git clone https://github.com/YOUR_USERNAME/AirlineReservation.git
+git clone https://github.com/lwinmon/AirlineReservation.git
 ### 2. Import into Eclipse
 
 - Open Eclipse
